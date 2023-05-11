@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### About Me
+- 😇 I'm a software developer mainly focused on web development.
+- 🙂 On my free times learning how to solve problems efficently by doing code wars challenges.
+- 🥳 I'm always open to new things, in the end all that matters to me is the knowledge.
+- 💬 You can contact me from <a href="mailto:ilgar2023@hotmail.com?">ilgar2023@hotmail.com</a>
 <!--
 **narniaeagle/narniaeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
